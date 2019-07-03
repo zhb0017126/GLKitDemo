@@ -1,2 +1,4 @@
 # GLKitDemo
-GlKitLearnDmo
+GlKitLearnDemo
+
+glkit learnDemo
